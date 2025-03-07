@@ -1,0 +1,13 @@
+1. Why did you choose this dataset?
+ - I chose the Game and Grade dataset because, as a gamer myself, I wanted to see if having higher play hours would lead to a decrease in grades
+(which it actually did). 
+
+2. What is your conclusion upon conducting linear regression on this dataset?
+- In the single regression model, it showed that having more playing hours leads to a decrease in grades,
+while in the multiple regression model where all factors were included, it showed an improvement, 
+though there was still some questionable variance.
+
+3. How relevant is linear regression today?'
+ - Linear regression is very relevant today and will continue to be in the days to come. Why? 
+It provides clear, understandable relationships between variables. It also provides actionable insights 
+and gives junior devs a taste of and foundation for machine learning.
